@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/devanshrai/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge" />
     </a>
-    <a href="https://twitter.com/Devansh_Rai02">
+    <a href="https://twitter.com/devanshrai02">
       <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="twitter badge" />
     </a>
   </div>
