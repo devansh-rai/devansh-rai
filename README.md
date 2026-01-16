@@ -40,3 +40,11 @@
 </div>
 
 ---
+
+&nbsp;![](https://komarev.com/ghpvc/?username=ashishps1&color=brightgreen)
+<p align="center">
+<img
+  src="https://github-statspro.vercel.app/api/stats/ashishps1?theme=default"
+  alt="Stats Card"
+/>
+</p>
