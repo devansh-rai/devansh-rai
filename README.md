@@ -41,10 +41,10 @@
 
 ---
 
-&nbsp;![](https://komarev.com/ghpvc/?username=ashishps1&color=brightgreen)
+&nbsp;![](https://komarev.com/ghpvc/?username=devansh-rai&color=brightgreen)
 <p align="center">
 <img
-  src="https://github-statspro.vercel.app/api/stats/ashishps1?theme=default"
+  src="https://github-statspro.vercel.app/api/stats/devansh-rai?theme=default"
   alt="Stats Card"
 />
 </p>
