@@ -72,9 +72,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="60"/>
-  <!-- &nbsp; -->
-  <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" title="FastAPI" width="26" height="26" />
-  <!-- &nbsp; -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg" width="60"/> -->
 </div>
