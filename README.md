@@ -28,7 +28,42 @@
 
 ### 🧰 Skills 
 <div id="tools" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="26" height="26" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" title="C++" width="26" height="26" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="26" height="26" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" title="Next.js" width="26" height="26" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" title="FastAPI" width="26" height="26" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="26" height="26" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" width="26" height="26" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/redis/FF4438" alt="Redis" title="Redis" width="26" height="26" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="26" height="26" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" title="Google Cloud" width="26" height="26" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" title="Linux" width="26" height="26" />
+  &nbsp;
+  <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23FFFFFF" alt="OpenAI" title="OpenAI" width="26" height="26" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" title="Gemini" width="26" height="26" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" title="Claude" width="26" height="26" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/2B6F4E" alt="LangChain" title="LangChain" width="26" height="26" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" title="PyTorch" width="26" height="26" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" title="TensorFlow" width="26" height="26" />
+
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" width="60"/>
@@ -37,8 +72,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="60"/>
+  <!-- &nbsp; -->
+  <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" title="FastAPI" width="26" height="26" />
+  <!-- &nbsp; -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg" width="60"/> -->
 </div>
 
 ---
